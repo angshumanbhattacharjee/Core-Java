@@ -12,4 +12,8 @@ Date Difference project which can calculate difference of days between two dates
 
 Lambda Demo programs,, Exception Handling with Lambdas.
 
+Flight Search Project which has methods to search flights between two loctions with possible filters.
+
+Logger Introduction and basic examples
+
 
